@@ -35,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -48,6 +49,28 @@
       <option name="presentableId" value="Default" />
       <updated>1608367322382</updated>
     </task>
+    <task id="LOCAL-00001" summary="added margin">
+      <created>1608374958530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608374958530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added margin" />
+    <option name="LAST_COMMIT_MESSAGE" value="added margin" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2444" y="113" key="CommitChangelistDialog2" timestamp="1608374957734">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2444" y="113" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1608374957734" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608374960500">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1608374960500" />
   </component>
 </project>
